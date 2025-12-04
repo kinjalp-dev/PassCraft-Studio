@@ -1,0 +1,5 @@
+{
+  "name": "Template Pass Admin",
+  "description": "A comprehensive admin dashboard for managing image templates, defining placeholder zones, and tracking user downloads.",
+  "requestFramePermissions": []
+}
